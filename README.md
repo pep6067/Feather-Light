@@ -1,4 +1,4 @@
-# 🕊️ Feather Light – A Manifesto for Hidden Precision  
+#  Feather Light – A Manifesto for Hidden Precision 🕊️
 *Written by Ian Patel, Creator & Architect of Feather Light*
 
 ---
@@ -19,7 +19,7 @@ It does not predict behavior. It **reveals** behavior.
 
 ---
 
-## 🎯 Purpose: What *is* Feather Light?
+##  Purpose: What *is* Feather Light? 🎯
 
 At its core, **Feather Light** is a:
 
@@ -35,7 +35,7 @@ Feather Light is a:
 
 ---
 
-## 💡 Why It Exists
+##  Why It Exists 💡
 
 In every system — whether a company, startup, or creative mind — patterns of inefficiency creep in **unnoticed**.  
 **Feather Light exists to counteract that entropy.**
@@ -57,7 +57,7 @@ Feather Light **reveals.** It **summarizes.** It **evolves** with you.
 
 ---
 
-## 🛠️ Key Capabilities
+##  Key Capabilities 🛠️
 
 ✅ Logs every active window and browser tab (Chrome, Firefox, Edge, Opera)  
 ✅ Encrypts everything locally using AES-256 (Fernet)  
@@ -71,7 +71,7 @@ Feather Light **reveals.** It **summarizes.** It **evolves** with you.
 
 ---
 
-## 👤 Who Is It For?
+##  Who Is It For? 👤
 
 Feather Light isn’t for everyone.
 
@@ -89,7 +89,7 @@ It’s for the **mental elites** who see software as scaffolding for empires.
 
 ---
 
-## 🧱 Positioning: This is Not a Tool — It’s Infrastructure
+##  Positioning: This is Not a Tool — It’s Infrastructure 🧱
 
 Feather Light is a **hidden framework**.  
 Just like Redis or Nginx powers billions of systems you’ll never see, Feather Light aims to be:
@@ -103,14 +103,14 @@ Just like Redis or Nginx powers billions of systems you’ll never see, Feather 
 
 ---
 
-## 🪶 Installation (Simple Guide)
+##  Installation (Simple Guide) 🪶
 
 🖥️ **Currently supported:** Windows 10 and above  
 🔒 **macOS/Linux support coming soon**
 
 ---
 
-### ✅ Step-by-Step
+###  Step-by-Step ✅
 
 1. **Download the repository as a ZIP**  
 2. **Extract the folder and open it in a terminal**  

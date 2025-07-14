@@ -22,8 +22,10 @@ It does not predict behavior. It **reveals** behavior.
 
 ##  Purpose: What *is* Feather Light? 🎯
 
+Feather Light is your machine’s second brain.
+It logs, encrypts, summarizes — without ever needing to be told.
+It works like a ghost. Feeds like a mirror. Reflects like a journal.
 At its core, **Feather Light** is a:
-
 **Privacy-first activity logging & local AI summarization framework for Windows.**
 
 But it is far more than that.
@@ -38,8 +40,16 @@ Feather Light is a:
 
 ##  Why It Exists 💡
 
-In every system — whether a company, startup, or creative mind — patterns of inefficiency creep in **unnoticed**.  
-**Feather Light exists to counteract that entropy.**
+Problem:
+
+Every ambitious mind leaks context. Tasks disappear. Patterns go unnoticed.
+You try to track, to journal, to optimize — but it’s too much friction.
+
+Solution:
+
+Feather Light runs quietly in the background.
+It watches. Encrypts. Summarizes.
+Not to monitor you — but to reveal you.
 
 It was built from two simple truths:
 

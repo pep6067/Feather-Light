@@ -4,7 +4,8 @@
 ---
 
 ## Introduction  
-In the age of overwhelming productivity tools and bloated dashboards, clarity is not found in more — it’s found in silence.  
+In a world addicted to dashboards and dopamine, Feather Light dares to disappear.
+Not to show you more. But to reveal what's already there.
 
 **Feather Light** was not designed to be seen.  
 It was designed to be **felt**.

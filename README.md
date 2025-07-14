@@ -120,6 +120,7 @@ Just like Redis or Nginx powers billions of systems you’ll never see, Feather 
 python installation.py
 ```
 Now this will prompt to install Ollama if not already installed. Feather Light v1 uses **OpenHermes via Ollama** for maximum privacy as we believe that **Your** Data must stay on **Your Device**
+
 4. Now make sure you activate your venv by running:
 CMD:
 ```bash

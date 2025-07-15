@@ -5,7 +5,7 @@
 🪶 Forking helps us see who's joined the movement!
 
 🪶 Join the Feather Light Wall of Cloners  
-If you've cloned or used this, [click here]([https://forms.gle/xyz](https://docs.google.com/forms/d/e/1FAIpQLSehkFAEI05KyRyyE-xa6y3P89aRsDtFyrXksPegtk1C1Lr95w/viewform?usp=dialog)) to add your name to our wall & get early updates.
+If you've cloned or used this, [click here]([https://forms.gle/xyz](https://docs.google.com/forms/d/e/1FAIpQLSehkFAEI05KyRyyE-xa6y3P89aRsDtFyrXksPegtk1C1Lr95w/viewform?usp=dialog) to add your name to our wall & get early updates.
 
 ---
 

@@ -1,6 +1,9 @@
 #  Feather Light – A Manifesto for Hidden Precision 🕊️
 *Written by Ian Patel, Creator & Architect of Feather Light*
 
+⭐️ If you like it, please Star & Fork.  
+🪶 Forking helps us see who's joined the movement!
+
 ---
 
 ## Introduction  
